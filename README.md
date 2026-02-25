@@ -144,15 +144,15 @@ pip install numpy pandas matplotlib seaborn jupyter
 
 | Topic | Description | Duration |
 |-------|-------------|----------|
-| NumPy Basics | Array creation, indexing, operations | 23 min |
-| Advanced NumPy | Broadcasting, reshaping, statistics | 22 min |
-| Pandas Intro | DataFrames, Series, I/O operations | 20 min |
-| Data Cleaning | Missing values, duplicates, preprocessing | 24 min |
-| Data Aggregation | GroupBy, pivot tables, aggregations | 15 min |
-| Visualization | Matplotlib & Seaborn plotting | 27 min |
-| EDA Project | Complete exploratory analysis workflow | Project |
+| NumPy Basics | Array creation, indexing, operations | 
+| Advanced NumPy | Broadcasting, reshaping, statistics | 
+| Pandas Intro | DataFrames, Series, I/O operations | 
+| Data Cleaning | Missing values, duplicates, preprocessing | 
+| Data Aggregation | GroupBy, pivot tables, aggregations | 
+| Visualization | Matplotlib & Seaborn plotting | 
+| EDA Project | Complete exploratory analysis workflow | 
 
-**Total Video Content:** ~2.5 hours
+
 
 ## 🚀 Projects
 
@@ -193,5 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please open an issue or reach out via email.
+
 
 
