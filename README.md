@@ -2,6 +2,9 @@
 
 A comprehensive hands-on course covering essential data science skills for building AI applications, focusing on NumPy, Pandas, and data visualization.
 
+<img src="/images/dataScience.jpeg" alt="description" style="width:100%; height:auto;" />
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -193,6 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please open an issue or reach out via email.
+
 
 
 
