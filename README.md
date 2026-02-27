@@ -58,7 +58,7 @@ Code_files/
 - Array indexing and slicing
 - Mathematical operations with arrays
 
-### Day 2: Advanced NumPy Operations (22 min)
+### Day 2: Advanced NumPy Operations 
 - Broadcasting
 - Array reshaping and manipulation
 - Statistical functions (mean, std, variance)
@@ -145,8 +145,8 @@ pip install numpy pandas matplotlib seaborn jupyter
 
 ## 📖 Topics Covered
 
-| Topic | Description | Duration |
-|-------|-------------|----------|
+| Topic | Description | 
+|-------|-------------|
 | NumPy Basics | Array creation, indexing, operations | 
 | Advanced NumPy | Broadcasting, reshaping, statistics | 
 | Pandas Intro | DataFrames, Series, I/O operations | 
@@ -196,6 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please open an issue or reach out via email.
+
 
 
 
