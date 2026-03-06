@@ -14,4 +14,4 @@ selected_columns = df[["species", "sepal_length"]]
 # print("Selected Columns: \n", selected_columns)
 
 filtered_rows = df[(df["sepal_length"] > 5.0) & (df["species"] == "setosa")]
-print("Filteres Rows: \n", filtered_rows)
+print("Filtered Rows: \n", filtered_rows)

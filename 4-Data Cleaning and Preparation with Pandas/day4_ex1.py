@@ -14,5 +14,5 @@ print("Original Dataset: \n", df)
 df["Age"] = df["Age"].fillna(df["Age"].mean())
 df["Score"] = df["Score"].interpolate()
 
-df = df.rename(columns={"Name":"Student_Name", "Score": "Exam:Score"})
+df = df.rename(columns={"Name": "Student_Name", "Score": "Exam_Score"})
 print("Dataset: \n", df)
